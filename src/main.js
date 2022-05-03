@@ -8,8 +8,8 @@ import 'vuetify/dist/vuetify.min.css'
 import firebase from 'firebase'
 
 var config = {
-    apiKey: "AIzaSyBfmjz8SFxGuEZ86Oq5cawEm_Pns7OodYE",
-    authDomain: "projeto-vue-gdg.firebaseapp.com",
+    apiKey: "",
+    authDomain: "",
     databaseURL: "https://projeto-vue-gdg.firebaseio.com",
     projectId: "projeto-vue-gdg",
     storageBucket: "projeto-vue-gdg.appspot.com",
